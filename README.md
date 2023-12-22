@@ -16,7 +16,13 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-👋 Hello, I'm Sachayanthan-V!<br>🚀 Aspiring MERN Full Stack Dev, currently working at Tata Consultancy Services on Boomi Technology, Gained 3 yrs+ Experience on Integration Development. Passionate about new innovative web development tech's .<br>🌱 Currently pursuing MERN stack dev through Coding Ninjas to deepen my understanding of NodeJs and ReactJS.  Eager to apply theoretical knowledge to real-world projects.<br>📫 Let's connect: E-Mail : @sachayanthan.v.1999@gmail.com , LinkedIn :  @https://www.linkedin.com/in/sachayanthan-v-jain-040838150/ <br>⚡ Fun fact: <br>             The Term "Bug":<br>                        The term "bug" in the context of computer programming originated in 1947 when a moth caused a malfunction in the Harvard Mark II computer. Technicians "debugged" the computer by removing the moth.<br>
+👋 Hello, I'm Sachayanthan-V!<br>
+🚀 Aspiring MERN Full Stack Dev, currently working at Tata Consultancy Services on Boomi Technology, Gained 3 yrs+ Experience on Integration Development. Passionate about new innovative web development tech's .<br>
+🌱 Currently pursuing MERN stack dev through Coding Ninjas to deepen my understanding of NodeJs and ReactJS.  Eager to apply theoretical knowledge to real-world projects.<br>
+📫 Let's connect: E-Mail : @sachayanthan.v.1999@gmail.com , LinkedIn :  @https://www.linkedin.com/in/sachayanthan-v-jain-040838150/ <br>
+⚡ Fun fact: <br>             
+          The Term "Bug":<br>                        
+                The term "bug" in the context of computer programming originated in 1947 when a moth caused a malfunction in the Harvard Mark II computer. Technicians "debugged" the computer by removing the moth.<br>
 
 
 ## 🌐 Socials:
