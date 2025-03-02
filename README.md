@@ -65,7 +65,7 @@ E-Mail : @sachayanthan.v.1999@gmail.com , <br>LinkedIn :  @https://www.linkedin.
 [![](https://visitcount.itsvg.in/api?id=Sachayanthan-V&icon=8&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/sachayanth1) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sachayanth1) 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
