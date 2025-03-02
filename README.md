@@ -33,7 +33,8 @@ E-Mail : @sachayanthan.v.1999@gmail.com , <br>LinkedIn :  @https://www.linkedin.
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sachayanthan-v-jain-040838150/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
+(https://in.linkedin.com/in/sachayanthan-v-jain-040838150) 
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sachayanthan-V)
 
